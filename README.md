@@ -1,4 +1,4 @@
-# 🍕 Zomato Restaurant Finder
+# 🍕 Zomato
 
 A modern, responsive restaurant discovery application built with **vanilla JavaScript, HTML5, and CSS3**. This project showcases a Zomato-like user interface where users can browse restaurants and apply multiple filters to find their perfect dining choice.
 
